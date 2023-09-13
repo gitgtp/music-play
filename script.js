@@ -41,6 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let randomindex=getrandomtrackindex(currentindex,musiclist.length)
   currentindex=randomindex
   console.log(currentindex)
+    but.src = "./icon/play.svg";
   playtrack();
   })
  //function for get random track index
