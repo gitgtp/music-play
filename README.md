@@ -20,7 +20,7 @@ This is a simple music player built with HTML, CSS, and JavaScript.
 
 Include screenshots of your music player in action or any relevant images.
 
-![Music Player Screenshot](./icon/Screenshot%20at%202024-02-05%2014-04-21.png)
+![Music Player Screenshot](./cover/Screenshot%20at%202024-02-05%2014-04-21.png)
 
 ## Demo
 
