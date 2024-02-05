@@ -24,7 +24,7 @@ Include screenshots of your music player in action or any relevant images.
 
 ## Demo
 
-[Provide a link to a live demo if available.](https://gitgtp.github.io/music-play/)
+[link live demo .](https://gitgtp.github.io/music-play/)
 
 ## Dependencies
 
