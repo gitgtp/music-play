@@ -38,7 +38,5 @@ If you'd like to contribute to the project, follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
